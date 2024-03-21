@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.tittle{
+    font-size: 40px;
+    margin: 5px;
+    background-color: rgb(203, 231, 252);
+    
+    
+}
+.body{
+    background-color: rgb(190, 214, 206);
+    
+}
+.rs{
+    font-size: 25px;
+    float: left;
+}
+p{
+    margin-left: 5px;
+    font-size: 20px;
+}
+
+.ready{
+    margin-bottom: 10px;
+    clear: both;
+}
+.fr{
+    float: right;
+    font-weight: bold;
+    color: 
+    
+    
+    rgb(180, 12, 158);
+    margin-top: 2px;
+    font-size: 25px;
+}
+.order li{
+    margin-left: 20px;
+    margin-bottom: 5px;
+}
+.button{
+    margin: 5px 0 2px 5px;
+    padding: 5px;
+    background-color: black;
+    color: white;
+    width: 100%;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+.button:hover{
+    background-color: white;
+    color: black;}
+ .color{
+    height: 30px;
+    width: 30px;
+    background-color: black;
+    cursor: pointer;
+ }   
+ .color-red{
+    background-color: red;
+ }
+ .color-white{
+    background-color: white;
+ }
+ .color-green{
+    background-color: green;
+ }
+ .color-blue{
+    background-color: blue;
+ }
+ .flex{
+    display: flex;
+    gap: 50px;
+    margin-left: 10px;
+   
+ }
+ .rate{
+    display: flex;
+    justify-content:space-between ;
+    align-items: center;
+    
+ }
+ .pd{
+    flex: 1;
+ }
+ .ship{
+    flex:1;
+    
+ }
+ .cr{
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+ }
+ .lst{
+    text-decoration: none;
+ }
+ .lst li{
+    line-height: 1rem;
+ }
